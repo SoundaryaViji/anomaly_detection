@@ -1,0 +1,7 @@
+{"D":"3", "T":"50"}
+{"event_type":"purchase", "timestamp":"2017-06-13 11:33:01", "id": "11", "amount": "16.83"}
+{"event_type":"purchase", "timestamp":"2017-06-13 11:33:01", "id": "11", "amount": "59.28"}
+{"event_type":"befriend", "timestamp":"2017-06-13 11:33:01", "id1": "11", "id2": "12"}
+{"event_type":"befriend", "timestamp":"2017-06-13 11:33:01", "id1": "13", "id2": "11"}
+{"event_type":"purchase", "timestamp":"2017-06-13 11:33:01", "id": "11", "amount": "11.20"}
+{"event_type":"befriend", "timestamp":"2017-06-13 11:33:01", "id1": "13", "id2": "14"}
